@@ -1,0 +1,8 @@
+{
+  "name": "NEXUS — AI Game Universe",
+  "description": "Agentic AI game discovery platform, universe builder, and playable browser game generator powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
